@@ -1,23 +1,45 @@
 < paquete >
-	< id > com.PaladinStore.MLPMod </ id >
-	< nombre > Paquete MLP </ nombre >
-	< versión > 1.0.0-1 </ versión >
+	< id > com.PaladinStore.MlpHack </ id >
+	< nombre > MlpHack </ nombre >
+	< versión > 2.0.0-1 </ versión >
 	< compatibilidad >
 		< firmware >
-			< maxiOS > 7.0 </ maxiOS >
-			<otras versiones > no soportadas </ otras versiones > Sin Soporte <\
-			<! -
-			para otras versiones, puede colocar sin soporte o sin confirmar
-			->
+			< miniOS > 7.0 </ miniOS >
 		</ firmware >
 	</ compatibilidad >
-	< dependencias > </ dependencias >
+	< dependencias >
+		< paquete > sustrato móvil </ paquete >
+	</ dependencias >
+	< shortDescription > Este es un nuevo paquete de muestra. El firmware debe ser mayor que 7.0 </ shortDescription >
 	< descripción >
-		< descripción > Este es un paquete antiguo. Requiere iOS 7 y versiones inferiores. </ Description >
+		< descripción > Este es un paquete con representaciones completas. </ descripción >
+		< descripción > Tiene más líneas descriptivas. </ descripción >
+		< descripción > <! [CDATA [
+		También puedes tener <br/> 
+		Un artículo de varias líneas.
+		]]>
+		</ descripción >
 	</ descriptionlist >
-	< capturas de pantalla > </ capturas de pantalla >
+	< capturas de pantalla >
+		< captura de pantalla >
+			< descripción > Esta es una descripción para la captura de pantalla 1. ¡Es Cydia! </ descripción >
+			< imagen > cydia.jpg </ imagen >
+		</ captura de pantalla >		
+		< captura de pantalla >
+			< descripción > Esta es una descripción para la captura de pantalla 2. ¡Es otra Cydia! </ descripción >
+			< imagen > cydia.jpg </ imagen >
+		</ captura de pantalla >		
+	</ capturas de pantalla >
 	< registro de cambios >
-		< cambio > Versión inicial </ cambio >
+		< cambio > Segunda versión </ cambio >
+		< cambio > Tiene la función 1 </ cambio >
+		< cambio > Tiene la función 2 </ cambio >
 	</ changelog >
-	< enlaces > </ enlaces >
+	< enlaces >
+		< enlace >
+			< nombre > / r / jailbreak </ nombre >
+			< url > https://www.reddit.com/r/jailbreak </ url >
+			< iconclass > fa fa-reddit </ iconclass >
+		</ enlace >
+	</ enlaces >
 </ paquete >
