@@ -1,13 +1,13 @@
-Package: com.PaladinStore.MLPMOD
+Package: com.k.mlp
 Version: 2.0.0-1
 Section: Tweaks
-Maintainer: IHackYourSt0re <Jorzorsajos@gmail.com>
+Maintainer: Tr1Tr1 <Jorzorsajos@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.k.mlp_5.1.0_iphoneos-arm.deb
 Size: 991000 
 MD5sum: 3972c034128f99d3e489e22512e8ff6e
 Description: This is a sample new package. Firmware should be greater than 7.0
-Name: MLPMOD
-Author: IHackYourSt0re <Jorzorsajos@gmail.com>
-Depiction: https://PaladinStore.github.io/IHackYourSt0re/depictions/?p=com.PaladinStore.MLPMOD
+Name: mlp
+Author: Tr1Tr1 <Jorzorsajos@gmail.com>
+Depiction: https://PaladinStore.github.io/Tr1Tr1/depictions/?p=com.PaladinStore.MLPMOD
