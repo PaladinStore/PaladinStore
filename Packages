@@ -1,6 +1,6 @@
  + Package: com.k.mlp
  + Version: 5.1.0
- + Section: Tweaks
+ + Section: Tweak
  + Maintainer: Tr1Tr1 <Jorzorsajos@gmail.com>
  + Depends: firmware (>7.0), mobilesubstrate
  + Architecture: iphoneos-arm
@@ -14,7 +14,7 @@
  
  + Package: IOSGods.com.DCM
  + Version: 10.3.1
- + Section: Tweaks
+ + Section: Tweak
  + Maintainer: Tr1Tr1 <Jorzorsajos@gmail.com>
  + Depends: firmware (>7.0), mobilesubstrate
  + Architecture: iphoneos-arm
