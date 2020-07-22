@@ -1,0 +1,23 @@
+< paquete >
+	< id > com.PaladinStore.MLPMod </ id >
+	< nombre > Paquete MLP </ nombre >
+	< versión > 1.0.0-1 </ versión >
+	< compatibilidad >
+		< firmware >
+			< maxiOS > 7.0 </ maxiOS >
+			<otras versiones > no soportadas </ otras versiones >
+			<! -
+			para otras versiones, puede colocar sin soporte o sin confirmar
+			->
+		</ firmware >
+	</ compatibilidad >
+	< dependencias > </ dependencias >
+	< descripción >
+		< descripción > Este es un paquete antiguo. Requiere iOS 7 y versiones inferiores. </ Description >
+	</ descriptionlist >
+	< capturas de pantalla > </ capturas de pantalla >
+	< registro de cambios >
+		< cambio > Versión inicial </ cambio >
+	</ changelog >
+	< enlaces > </ enlaces >
+</ paquete >
