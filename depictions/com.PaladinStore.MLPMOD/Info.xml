@@ -1,7 +1,7 @@
 < paquete >
-	< id > com.PaladinStore.MlpHack </ id >
-	< nombre > MlpHack </ nombre >
-	< versión > 2.0.0-1 </ versión >
+	< id > com.k.mlp </ id >
+	< nombre > mlp </ nombre >
+	< versión > 5.0.1 </ versión >
 	< compatibilidad >
 		< firmware >
 			< miniOS > 7.0 </ miniOS >
