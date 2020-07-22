@@ -11,3 +11,17 @@
  + Name: mlp
  + Author: Tr1Tr1 <Jorzorzajos@gmail.com@gmail.com>
  + Depiction: https://PaladinStore.github.io/Tr1Tr1/depictions/?p=com.k.mlp
+ 
+ + Package: IOSGods.com.DCM
+ + Version: 10.3.1
+ + Section: Tweaks
+ + Maintainer: Tr1Tr1 <Jorzorsajos@gmail.com>
+ + Depends: firmware (>7.0), mobilesubstrate
+ + Architecture: iphoneos-arm
+ + Filename: ./debs/iOSGods.com.DCM_10.3.1+iOSGods.com_iphoneos-arm.deb
+ + Size: 2290000
+ + MD5sum: edd1fdf817891b6c9ab9a4baef3170d7
+ + Description: Mod Dragin City Beta
+ + Name: DCM
+ + Author: Tr1Tr1 <Jorzorzajos@gmail.com@gmail.com>
+ + Depiction: https://PaladinStore.github.io/Tr1Tr1/depictions/?p=IOSGods.com.DCM
