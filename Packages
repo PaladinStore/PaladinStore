@@ -4,7 +4,7 @@
  + Maintainer: Tr1Tr1 <Jorzorsajos@gmail.com>
  + Depends: firmware (>7.0), mobilesubstrate
  + Architecture: iphoneos-arm
- + Filename: /debs/com.k.mlp_5.1.0_iphoneos-arm.deb
+ + Filename: ./debs/com.k.mlp_5.1.0_iphoneos-arm.deb
  + Size: 991000
  + MD5sum: 3972c034128f99d3e489e22512e8ff6e
  + Description: This is a sample new package. Firmware should be greater than 7.0
@@ -18,7 +18,7 @@
  + Maintainer: Tr1Tr1 <Jorzorsajos@gmail.com>
  + Depends: firmware (>7.0), mobilesubstrate
  + Architecture: iphoneos-arm
- + Filename: /debs/iOSGods.com.DCM_10.3.1+iOSGods.com_iphoneos-arm.deb
+ + Filename: ./debs/iOSGods.com.DCM_10.3.1+iOSGods.com_iphoneos-arm.deb
  + Size: 2290000
  + MD5sum: edd1fdf817891b6c9ab9a4baef3170d7
  + Description: Mod Dragin City Beta
